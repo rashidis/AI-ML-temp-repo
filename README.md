@@ -58,4 +58,4 @@ We welcome contributions from the community to improve this template repository.
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute this template for your AI/ML projects.
+This project is licensed under the [MIT License](License). Feel free to use, modify, and distribute this template for your AI/ML projects.
