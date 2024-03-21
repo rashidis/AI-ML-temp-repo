@@ -16,23 +16,24 @@ Welcome to the AI/ML Project Template Repository! This repository is designed to
 
 To get started with your AI/ML project using this template repository, follow these steps:
 
-1. **Clone the Repository**: Clone this repository to your local machine using Git.
+1. **Use this template to create a new repository**: Click on the green button `Use this template` and then `create new repository`. Fill in the repository name with `<your repo name>` and description. Check if you want the repository to be Public or Private. Click on `Create Repositry` button. 
+2. **Clone the Repository**: Clone the created repository to your local machine using Git.
 
    ```bash
-   git clone https://github.com/your-username/income-level-prediction.git
-2. **Navigate to the Project Directory**: Enter the project directory in your terminal or command prompt.
-3. **Install Dependencies**: Create the conda environment with dependencies installed:
+   git clone https://github.com/your-username/<your repo name>.git
+3. **Navigate to the Project Directory**: Enter the project directory in your terminal or command prompt.
+4. **Install Dependencies**: Create the conda environment with dependencies installed:
 
    ```bash
    conda env create -f environment.yml
-4. **Activate the conda environment**:
+5. **Activate the conda environment**:
 
    ```bash
    conda activate income-prediction-env
-5. **Start Building**: Begin building your AI/ML project by modifying or adding files as needed.
-6. **Documentation**: Update the README and documentation to reflect your project's specifics, including usage instructions and contribution guidelines.
-7. **Test Your Project**: Test your project to ensure everything is working as expected.
-8. **Contribute**: If you've made improvements or additions to the template, consider contributing back to the community by submitting a pull request.
+6. **Start Building**: Begin building your AI/ML project by modifying or adding files as needed.
+7. **Documentation**: Update the README and documentation to reflect your project's specifics, including usage instructions and contribution guidelines.
+8. **Test Your Project**: Test your project to ensure everything is working as expected.
+9. **Contribute**: If you've made improvements or additions to the template, consider contributing back to the community by submitting a pull request.
 
 ## Directory Structure
 
